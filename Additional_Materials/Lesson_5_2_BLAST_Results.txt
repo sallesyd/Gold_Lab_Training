@@ -1,0 +1,1 @@
+Ecoli_oxidoreductase_Domain	sp|Q02895|AAD16_YEAST_Putative_aryl-alcohol_dehydrogenase_AAD16	22.759	145	101	5	1	139	194	333	4.73e-05	40.0
